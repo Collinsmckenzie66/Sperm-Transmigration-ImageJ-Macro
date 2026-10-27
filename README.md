@@ -1,4 +1,5 @@
-### This macro is used to analyze tiled images taken by a Zeiss Axio microscope. It splits the image, that has been pre-straightened using the rotated rectangle function in FIJI, into 6 regions (or positions as some literature may refer to them as).\
+### Sperm Transmigration ImageJ Macro
+## This macro is used to analyze tiled images taken by a Zeiss Axio microscope. It splits the image, that has been pre-straightened using the rotated rectangle function in FIJI, into 6 regions (or positions as some literature may refer to them as).
 
 # To use this macro:
 Download it and simply drag the file into the ImageJ/FIJI interface. Press run and select the folder with your pre-straightened, stitched images and press run.\
